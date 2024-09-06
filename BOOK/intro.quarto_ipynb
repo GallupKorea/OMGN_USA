@@ -1,0 +1,36 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Introduction\n",
+        "\n",
+        "This is a book created from markdown and executable code.\n",
+        "\n",
+        "See @knuth84 for additional discussion of literate programming.\n"
+      ],
+      "id": "1118ad9f"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import pandas as pd"
+      ],
+      "id": "355685b5",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "c:\\Users\\wschoi\\VSCODE_WORK\\.conda\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
