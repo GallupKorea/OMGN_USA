@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "OMGN_USA",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\nimport pandas as pd",
     "crumbs": [
       "Preface"
     ]
